@@ -1,0 +1,11 @@
+{
+  "name": "nutricloud-functions",
+  "description": "Optional Firebase serverless functions for NutriCloud",
+  "engines": {"node": "20"},
+  "main": "index.js",
+  "scripts": {"serve": "firebase emulators:start --only functions,firestore,auth"},
+  "dependencies": {
+    "firebase-admin": "^13.5.0",
+    "firebase-functions": "^6.4.0"
+  }
+}

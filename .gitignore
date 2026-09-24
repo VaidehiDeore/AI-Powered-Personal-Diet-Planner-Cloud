@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+firebase-debug.log
+.firebase/
+serviceAccountKey.json
+*-service-account*.json
+backend/data/local_store.json
+backend/uploads/
+coverage/
+.pytest_cache/
+.DS_Store

@@ -1,0 +1,6 @@
+id,name,kcal_per_100g,protein_g,carbs_g,fat_g,diet,cuisine
+oats,Oats,379,13.2,67.7,6.5,vegan,general
+dal,Cooked dal,116,9,20,0.4,vegan,indian
+rice,Cooked rice,130,2.7,28,0.3,vegan,indian
+paneer,Paneer,265,18,6,20,vegetarian,indian
+egg,Egg,155,13,1.1,11,omnivore,general

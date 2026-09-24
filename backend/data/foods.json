@@ -1,0 +1,16 @@
+[
+  {"id":"oats","name":"Oats","per100":{"kcal":379,"p":13.2,"c":67.7,"f":6.5},"tags":["vegetarian","vegan"],"cuisine":"general"},
+  {"id":"banana","name":"Banana","per100":{"kcal":89,"p":1.1,"c":22.8,"f":0.3},"tags":["vegetarian","vegan"],"cuisine":"general"},
+  {"id":"soy_milk","name":"Soy milk","per100":{"kcal":54,"p":3.3,"c":6.0,"f":1.8},"tags":["vegetarian","vegan"],"cuisine":"general"},
+  {"id":"paneer","name":"Paneer","per100":{"kcal":265,"p":18,"c":6,"f":20},"tags":["vegetarian"],"cuisine":"indian"},
+  {"id":"tofu","name":"Tofu","per100":{"kcal":76,"p":8,"c":1.9,"f":4.8},"tags":["vegetarian","vegan"],"cuisine":"general"},
+  {"id":"dal","name":"Cooked dal","per100":{"kcal":116,"p":9,"c":20,"f":0.4},"tags":["vegetarian","vegan"],"cuisine":"indian"},
+  {"id":"rice","name":"Cooked rice","per100":{"kcal":130,"p":2.7,"c":28,"f":0.3},"tags":["vegetarian","vegan"],"cuisine":"indian"},
+  {"id":"roti","name":"Whole wheat roti","per100":{"kcal":250,"p":9,"c":50,"f":3.2},"tags":["vegetarian","vegan"],"cuisine":"indian"},
+  {"id":"chickpeas","name":"Cooked chickpeas","per100":{"kcal":164,"p":8.9,"c":27.4,"f":2.6},"tags":["vegetarian","vegan"],"cuisine":"indian"},
+  {"id":"egg","name":"Egg","per100":{"kcal":155,"p":13,"c":1.1,"f":11},"tags":["omnivore"],"cuisine":"general"},
+  {"id":"chicken","name":"Cooked chicken breast","per100":{"kcal":165,"p":31,"c":0,"f":3.6},"tags":["omnivore"],"cuisine":"general"},
+  {"id":"apple","name":"Apple","per100":{"kcal":52,"p":0.3,"c":14,"f":0.2},"tags":["vegetarian","vegan"],"cuisine":"general"},
+  {"id":"curd","name":"Plain curd","per100":{"kcal":61,"p":3.5,"c":4.7,"f":3.3},"tags":["vegetarian"],"cuisine":"indian"},
+  {"id":"peanut","name":"Peanuts","per100":{"kcal":567,"p":25.8,"c":16.1,"f":49.2},"tags":["vegetarian","vegan"],"cuisine":"general"}
+]
